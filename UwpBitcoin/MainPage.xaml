@@ -15,7 +15,7 @@
     <!--リソース-->
     <Page.Resources>
         <FontFamily x:Key="myFont">Arial Black</FontFamily>
-        <system:Double x:Key="mySizeSmall">21</system:Double>
+        <system:Double x:Key="mySizeSmall">20</system:Double>
         <system:Double x:Key="mySizeLarge">40</system:Double>
     </Page.Resources>
     <Page.BottomAppBar>
